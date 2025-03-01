@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/jedh2/disaster_tweets">
-    <img src="images/tweet_background.jpeg" alt="Background" width="531" height="263">
+    <img src="images/tweet_background.jpg" alt="Background" width="531" height="263">
   </a>
 </div>
 
